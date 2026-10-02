@@ -4,7 +4,7 @@
 - **Classes (3):**
   - `none`: 1,164 images (bare/damaged skin, traffic signs, billboards, blank walls, noise)
   - `tats`: 802 images (permanent body ink, linework, pigmentation)
-  - `street_art`: 695 images (murals, spray paint on urban surfaces)
+  - `street_art`: 695 images (murals, spray paint on urban surfaces, and objects)
 - **Sources:** Roboflow Universe public datasets and original self-collected captures.
 - **Splits (80 / 10 / 10):**
   - **Train:** 2,128 images (931 `none`, 641 `tats`, 556 `street_art`)
